@@ -1,4 +1,4 @@
-# latex_instructions
+# Latest Lyx Instructions
 
 the CSSS uses lyx style latex files.
 
